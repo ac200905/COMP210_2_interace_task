@@ -13,8 +13,8 @@ These seem to be the most viable ways of implementing movement in VR currently, 
 
 Since teleporting is used heavily in most VR games, I wanted to design something based on the simplicity of teleportation but with something extra to make it seem more interesting.
 My initial idea was to have a preview window of the view from the position you are about to teleport to. This would be really interesting in a strategic stealth based game as it would give you a window into areas before you teleport to them to survey the area.  <br/>
-During my initial market research I discovered a game called Budget Cuts that already has this mechanic. <br/>
-[Budget Cuts Gameplay](https://www.youtube.com/watch?v=n-bGfdK0k8Q) <br/>
+During my initial market research I discovered a game called [Budget Cuts](https://www.youtube.com/watch?v=n-bGfdK0k8Q) that already has this mechanic. <br/>
+
 ![Budget Cuts](https://www.cdkeyz.com/wp-content/uploads/2018/06/budget-cuts-pc-cd-key-4.jpg)
 
 However, now I know that this mechanic can work, I am thinking of having other options attached to this idea. For example, I think an interesting idea would be having different teleports that also change the scale of the player after they teleport, perhaps shrinking or expanding the size of the player. In [Waltz of the Wizard](https://www.youtube.com/watch?v=pUvod-6VHbw) there is a spell that turns the player into a giant and in [Gorn](https://www.youtube.com/watch?v=ILw8TOGnd1U) the player can increase the height of the player in the settings. <br/>
