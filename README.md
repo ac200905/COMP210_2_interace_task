@@ -31,5 +31,5 @@ The idea being that the player can shoot a small sphere that acts like a [transl
 If I had more time I would have liked to add an effect to smooth out the teleport transition and pehaps make the screens on the controller better quality. Also the puzzle and gamification of the prototype, while demonstrating the core mechanics, are a bit simplistic.
 
 ## Resources Used
-I used the free SteamVR 2.0 Plugin from the asset store to get basic controller input actions working with my code and used an interactable sphere from the interactive sample scene as a base for my collectable objects.
+I used the free SteamVR 2.0 Plugin from the asset store to get basic controller input actions working with my code and used an interactable sphere from the interactive sample scene as a base for my collectable objects. My teleportation code is my own that I made originally for my comp230 group project and repurposed for this project.
 
