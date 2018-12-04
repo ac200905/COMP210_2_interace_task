@@ -22,6 +22,17 @@ However, now I know that this mechanic can work, I am thinking of having other o
 A way this could be implemented is the use of a teleport gun with a finite number of bullets that each change the player size during teleportation based on the type of bullet in the teleport gun. The changing of bullet type could be simulated like the weapon changing in [Cosmic Trip](https://www.youtube.com/watch?v=Qv1PCbzJxWM) or like how [Space Pirate Trainer](https://www.youtube.com/watch?v=curX9Xe1kp0) changes gun type using a [radial menu](https://itroadblog.wordpress.com/2016/11/02/designing-embedded-menu-ui-for-vr-environments/) with the trackpad.
 I could also include a mechanic that allows the player to pick up objects, these object when attached to the player would retain their size relative to the player. The resizing of objects could be an interesting mechanic for a puzzle game, with the player needing objects of different sizes to complete puzzles. Reminiscent of the ideas in Ant-Man. <br/>
 
+## User Stories
+As a player, I want to be able to teleport to a location I choose in the world. <br/>
+As a player, I want to be able to switch realities (Blink) so I can solve puzzles. <br/>
+As a player, I want to be able to see the other reality I'm about to Teleport to. <br/>
+As a player, I want to be able to look around from the perspective of myself in the other reality. <br/>
+As a player, I want to see how many times I have "Blinked". <br/>
+As a player, I want to be able to collect items to progress the game. <br/>
+As a player, I want to see how many items I have collected. <br/>
+As a player, I want an obstacle to collecting the items in the rooms. <br/>
+
+
 ## Prototype Changes
 My final prototype is somewhat different from my proposal idea. It no longer contains the player resizing and instead incorporates a reality switching mechanic. <br/>
 The objective of the game is to move through a museum-like building and collect artifacts without being spotted by security cameras found in several of the rooms. In this regard it's similar to stealth games like [Thief](https://store.steampowered.com/app/211600/Thief_Gold/) and Dishonored. <br/> 
