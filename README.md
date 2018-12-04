@@ -30,3 +30,6 @@ The reality switching mechanic allows the user to alternate between two differen
 The idea being that the player can shoot a small sphere that acts like a [translocater](https://www.youtube.com/watch?v=KBA5EhbPxkc) beacon as in Unreal Tournament. While the sphere is in that position, the player can see (through the screen on the right hand controller) everything the player would see if they were to teleport there. This allows the player in the game to scope out the room before entering it in order to determine whether or not there is a security camera in the room and thus if the room is safe to enter. There are also doorways that are open in one reality but closed in the other, facilitating the need for reality switching in the game. There are a lot of possibilities with this mechanic, particularly in stealth/puzzle games. <br/>
 If I had more time I would have liked to add an effect to smooth out the teleport transition and pehaps make the screens on the controller better quality. Also the puzzle and gamification of the prototype, while demonstrating the core mechanics, are a bit simplistic.
 
+## Resources Used
+I used the free SteamVR 2.0 Plugin from the asset store to get basic controller input actions working with my code and used an interactable sphere from the interactive sample scene as a base for my collectable objects.
+
