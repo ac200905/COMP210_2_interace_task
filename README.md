@@ -5,7 +5,7 @@
 
 Locomotion in VR is currently very limited. Some VR games like [Onwards](https://www.youtube.com/watch?v=f8N3aOn1iWE) simply use the Vive hand controller trackpads to move the player in the desired direction.
 
-Other games like [Climbey](https://www.youtube.com/watch?v=Rhm_V__KUFo) and [Freedom Locomotion VR](https://store.steampowered.com/app/584170/Freedom_Locomotion_VR/)include movement options such as using a combination of arm movements and the grip buttons to simulate walking. Alot of games like [Gorn](https://www.youtube.com/watch?v=zFxfwKlforE)
+Other games like [Climbey](https://www.youtube.com/watch?v=Rhm_V__KUFo) and [Freedom Locomotion VR](https://store.steampowered.com/app/584170/Freedom_Locomotion_VR/)include movement options such as using a combination of arm movements and the grip buttons to simulate walking. A lot of games like [Gorn](https://www.youtube.com/watch?v=zFxfwKlforE)
 include multiple movement options like these.<br/>
 The main problem with these types of movement is they make fighting or using your hands in tandem with movement very difficult.<br/>
 Because of this most VR games seem to have a basic instant point and click teleporting mechanic. Examples include Vanishing Realms, Arizona Sunshine, Sairento VR, The Gallery, Raw Data and many more. <br/>
